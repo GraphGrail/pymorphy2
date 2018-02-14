@@ -1,3 +1,5 @@
+GraphGrail Ai – is the world’s first Artificial Intelligence platform for Blockchain built on top of Natural Language Understanding technology with the DApps marketplace 
+
 pymorphy2
 =========
 
@@ -60,3 +62,6 @@ BibTeX::
       pages={320-332},
       language={English}
    }
+   
+This module is not belong to Graph Grail!!!
+It will be used to integrate with the micro services provided by Graph Grail.
